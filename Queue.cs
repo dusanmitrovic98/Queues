@@ -24,4 +24,9 @@ public class Queue<T>
     {
 
     }
+
+    public bool IsEmpty()
+    {
+        return false;
+    }
 }
