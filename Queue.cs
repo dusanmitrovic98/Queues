@@ -14,4 +14,9 @@ public class Queue<T>
     {
         get { return this._elements.Count; }
     }
+
+    public void Enqueue(T item)
+    {
+
+    }
 }
