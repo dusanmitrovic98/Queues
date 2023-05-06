@@ -7,5 +7,6 @@ public class Queue<T>
     public List<T> Elements
     {
         get { return this._elements; }
+        set { this._elements = value; }
     }
 }
