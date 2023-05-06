@@ -43,6 +43,11 @@ public class Queue<T>
         return this._elements[0];
     }
 
+    public void Clear()
+    {
+
+    }
+
     public bool IsEmpty()
     {
         if (this.Count == 0)
