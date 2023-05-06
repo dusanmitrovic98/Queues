@@ -1,6 +1,6 @@
 namespace DataStructures.Collections.Queues;
 
-interface IQueue
+interface IQueue<T>
 {
-
+    public List<T> Elements { get; set; }
 }
