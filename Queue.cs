@@ -1,6 +1,6 @@
 ﻿namespace DataStructures.Collections.Queues;
 
-public class Queue
+public class Queue<T>
 {
 
 }
