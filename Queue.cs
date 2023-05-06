@@ -35,6 +35,11 @@ public class Queue<T>
 
     public T Peek()
     {
+        if (this.IsEmpty())
+        {
+            throw new InvalidOperationException("Queue is empty.");
+        }
+
         return this._elements[0];
     }
 
