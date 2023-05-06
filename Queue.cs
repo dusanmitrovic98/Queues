@@ -9,4 +9,9 @@ public class Queue<T>
         get { return this._elements; }
         set { this._elements = value; }
     }
+
+    public int Count
+    {
+        get { return this._elements.Count; }
+    }
 }
