@@ -27,6 +27,11 @@ public class Queue<T>
 
     public bool IsEmpty()
     {
+        if (this.Count == 0)
+        {
+            return true;
+        }
+
         return false;
     }
 }
