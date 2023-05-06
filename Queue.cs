@@ -33,6 +33,11 @@ public class Queue<T>
         return result;
     }
 
+    public T Peek()
+    {
+        return this._elements[0];
+    }
+
     public bool IsEmpty()
     {
         if (this.Count == 0)
