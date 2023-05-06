@@ -1,0 +1,12 @@
+C:\Users\BK2O198\Documents\Workstation\Queues\bin\Debug\net7.0\Queues.deps.json
+C:\Users\BK2O198\Documents\Workstation\Queues\bin\Debug\net7.0\Queues.dll
+C:\Users\BK2O198\Documents\Workstation\Queues\bin\Debug\net7.0\Queues.pdb
+C:\Users\BK2O198\Documents\Workstation\Queues\obj\Debug\net7.0\Queues.csproj.AssemblyReference.cache
+C:\Users\BK2O198\Documents\Workstation\Queues\obj\Debug\net7.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK2O198\Documents\Workstation\Queues\obj\Debug\net7.0\Queues.AssemblyInfoInputs.cache
+C:\Users\BK2O198\Documents\Workstation\Queues\obj\Debug\net7.0\Queues.AssemblyInfo.cs
+C:\Users\BK2O198\Documents\Workstation\Queues\obj\Debug\net7.0\Queues.csproj.CoreCompileInputs.cache
+C:\Users\BK2O198\Documents\Workstation\Queues\obj\Debug\net7.0\Queues.dll
+C:\Users\BK2O198\Documents\Workstation\Queues\obj\Debug\net7.0\refint\Queues.dll
+C:\Users\BK2O198\Documents\Workstation\Queues\obj\Debug\net7.0\Queues.pdb
+C:\Users\BK2O198\Documents\Workstation\Queues\obj\Debug\net7.0\ref\Queues.dll
