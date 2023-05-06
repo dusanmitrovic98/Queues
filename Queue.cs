@@ -19,4 +19,9 @@ public class Queue<T>
     {
         this._elements.Add(item);
     }
+
+    public void Dequeue()
+    {
+
+    }
 }
