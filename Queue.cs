@@ -17,6 +17,6 @@ public class Queue<T>
 
     public void Enqueue(T item)
     {
-
+        this._elements.Add(item);
     }
 }
