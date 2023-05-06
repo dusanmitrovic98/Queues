@@ -22,7 +22,10 @@ public class Queue<T>
 
     public void Dequeue()
     {
-
+        if (this.IsEmpty())
+        {
+            throw new InvalidOperationException("Queue is empty.");
+        }
     }
 
     public bool IsEmpty()
