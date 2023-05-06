@@ -20,12 +20,17 @@ public class Queue<T>
         this._elements.Add(item);
     }
 
-    public void Dequeue()
+    public T Dequeue()
     {
         if (this.IsEmpty())
         {
             throw new InvalidOperationException("Queue is empty.");
         }
+
+        T result = this._elements[0];
+        this._elements.RemoveAt(0);
+
+        return result;
     }
 
     public bool IsEmpty()
