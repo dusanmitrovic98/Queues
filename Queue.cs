@@ -2,5 +2,5 @@
 
 public class Queue<T>
 {
-
+    private List<T> elements;
 }
