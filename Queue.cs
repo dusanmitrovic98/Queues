@@ -1,6 +1,6 @@
 ﻿namespace DataStructures.Collections.Queues;
 
-public class Queue<T>
+public class Queue<T> : IQueue<T>
 {
     private List<T> _elements;
 
