@@ -8,4 +8,5 @@ interface IQueue<T>
     public T Dequeue();
     public T Peek();
     public void Clear();
+    public bool IsEmpty();
 }
