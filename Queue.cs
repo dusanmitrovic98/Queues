@@ -45,7 +45,7 @@ public class Queue<T>
 
     public void Clear()
     {
-
+        this._elements.Clear();
     }
 
     public bool IsEmpty()
